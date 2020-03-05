@@ -1,0 +1,6 @@
+1. Go to website "www.booking.com".
+2. Ask a question "where the user wants to go?".
+3. Show result.
+4. If the price is too high, look for other options.
+5. Repeat step 4 until the result satisfies the user.
+6. Make a reservation.
