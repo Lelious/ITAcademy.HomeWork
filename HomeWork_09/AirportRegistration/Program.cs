@@ -114,7 +114,7 @@ namespace Airport_Registration
             Change_Registry(p.SecurityCheck, p.PassportCheck, p.CheckInStatus);
         }
 
-        static void Change_Registry(bool a, bool b, bool c)
+        static void Change_Registry(bool passCheck, bool securCheck, bool checkIn)
         {
             if (p.PassportCheck && p.SecurityCheck && p.CheckInStatus)
             {
