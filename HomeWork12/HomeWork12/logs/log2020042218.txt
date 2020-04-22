@@ -1,0 +1,20 @@
+2020-04-22 18:28:10.169 +03:00 [INF] Starting program HomeWork12
+2020-04-22 18:28:10.304 +03:00 [DBG] Sucsessfuly created a new repository!
+2020-04-22 18:28:10.306 +03:00 [DBG] Sucseccfuly created new Motorcycle Suzuki Boulevard C50
+2020-04-22 18:28:10.307 +03:00 [DBG] Sucseccfuly created new Motorcycle Suzuki Boulevard C90
+2020-04-22 18:28:10.308 +03:00 [DBG] Sucseccfuly created new Motorcycle Suzuki Boulevard C109R
+2020-04-22 18:28:10.309 +03:00 [DBG] Sucseccfuly created new Motorcycle Suzuki Boulevard M50
+2020-04-22 18:28:10.310 +03:00 [DBG] All motorcycles in collection:
+2020-04-22 18:28:10.311 +03:00 [DBG] ID : 1 NAME : Suzuki MODEL : Boulevard C50 YEAR : 2001 ODOMETER : 156487 
+2020-04-22 18:28:10.312 +03:00 [DBG] ID : 2 NAME : Suzuki MODEL : Boulevard C90 YEAR : 2005 ODOMETER : 287564 
+2020-04-22 18:28:10.312 +03:00 [DBG] ID : 3 NAME : Suzuki MODEL : Boulevard C109R YEAR : 2008 ODOMETER : 32546 
+2020-04-22 18:28:10.315 +03:00 [DBG] ID : 4 NAME : Suzuki MODEL : Boulevard M50 YEAR : 2002 ODOMETER : 79465 
+2020-04-22 18:28:10.316 +03:00 [DBG] Sucsessfuly finded motorcycle:ID : 2 NAME : Suzuki MODEL : Boulevard C90 YEAR : 2005 ODOMETER : 287564 
+2020-04-22 18:28:10.317 +03:00 [ERR] Can't find motorcycle by id!
+2020-04-22 18:28:10.319 +03:00 [DBG] Sucsessfuly updated information
+2020-04-22 18:28:10.320 +03:00 [DBG] New information about motorcycle:ID : 3 NAME : Honda MODEL :  YEAR : 0 ODOMETER : 0 
+2020-04-22 18:28:10.322 +03:00 [DBG] Delete motorcycle!
+2020-04-22 18:28:10.324 +03:00 [DBG] All motorcycles in collection:
+2020-04-22 18:28:10.324 +03:00 [DBG] ID : 1 NAME : Suzuki MODEL : Boulevard C50 YEAR : 2001 ODOMETER : 156487 
+2020-04-22 18:28:10.325 +03:00 [DBG] ID : 2 NAME : Suzuki MODEL : Boulevard C90 YEAR : 2005 ODOMETER : 287564 
+2020-04-22 18:28:10.326 +03:00 [DBG] ID : 4 NAME : Suzuki MODEL : Boulevard M50 YEAR : 2002 ODOMETER : 79465 
